@@ -1,0 +1,25 @@
+# SimpleTurn
+
+> SimpleTurn sells productized AI ops systems to Canadian residential real estate agents and small teams. Membership includes a downloadable AI Systems Library and a Weekly Drop: one new or upgraded system each week. Prices are in CAD.
+
+## Key facts
+- Audience: Canadian residential real estate agents (solo and small teams)
+- Founding Membership: $39 CAD/month or $349 CAD/year, kept while subscribed
+- Regular price after the founding window: $49 CAD/month or $449 CAD/year
+- Founding window closes at 100 founding members or 60 days from go-live, whichever comes first
+- Free lead magnet: AI Agent Starter Checklist
+- SimpleTurn is not coaching, lead generation, or brokerage/legal advice, and makes no income or listing guarantees
+- Support: support@simpleturn.ca
+
+## Pages
+- [Home](https://simpleturn.ca/): what the membership includes and who it is for
+- [AI Agent Starter Checklist](https://simpleturn.ca/checklist): free checklist sign-up
+- [Founding Membership](https://simpleturn.ca/founding): pricing, founding window and FAQ
+- [Blog](https://simpleturn.ca/blog): "AI Impact · Canada" series, each post with its own FAQ
+  - https://simpleturn.ca/blog/ai-adoption-soft-market-canadian-agents
+  - https://simpleturn.ca/blog/ai-lead-follow-up-canadian-agents
+  - https://simpleturn.ca/blog/ai-listing-marketing-web-ops-canada
+  - https://simpleturn.ca/blog/ai-cma-seller-consults-canada
+  - https://simpleturn.ca/blog/ai-crm-brokerage-ops-canada
+- [Privacy Policy](https://simpleturn.ca/privacy): PIPEDA and CASL
+- [Terms of Service](https://simpleturn.ca/terms): membership terms
